@@ -30,3 +30,4 @@ Undo & Fix
 Stash
 • git stash → Save work temporarily
 • git stash pop → Restore stash
+okok
